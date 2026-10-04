@@ -1,0 +1,6 @@
+{
+  "name": "Ritual — Daily Routine Companion",
+  "description": "A calm, mobile-first personal daily routine companion with real-time schedule tracking, phone discipline rules, and slow-mode accountability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
